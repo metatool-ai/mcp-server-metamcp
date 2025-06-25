@@ -1,6 +1,10 @@
 # MetaMCP MCP Server
 
-[https://metamcp.com](https://metamcp.com): The One MCP to manage all your MCPs
+> **🚨 DEPRECATED PACKAGE WARNING 🚨**
+> 
+> This local proxy package is deprecated in MetaMCP's 2.0 all-in-one architecture. 
+> 
+> **Please checkout https://github.com/metatool-ai/metamcp for more details.**
 
 MetaMCP MCP Server is a proxy server that joins multiple MCP⁠ servers into one. It fetches tool/prompt/resource configurations from MetaMCP App⁠ and routes tool/prompt/resource requests to the correct underlying server.
 
