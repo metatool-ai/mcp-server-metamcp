@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/metatool-ai-mcp-server-metamcp-badge.png)](https://mseep.ai/app/metatool-ai-mcp-server-metamcp)
+
 # MetaMCP MCP Server
 
 > **🚨 DEPRECATED PACKAGE WARNING 🚨**
